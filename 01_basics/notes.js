@@ -15,3 +15,4 @@
 // Non-primitive - heap memory = you get a reference of the original value = means whatever value you change, also gets changed in the original value
 
 console.log(typeof String)
+console.log(typeof Object)
